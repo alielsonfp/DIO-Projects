@@ -33,6 +33,7 @@ Midjourney：
 
 ## 📚 Materiais
 
+- Imagens utilizadas em `assets`
 - prompts utilizados
 
 ## 🛠️ Instruções de execução
