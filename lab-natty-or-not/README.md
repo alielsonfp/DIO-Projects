@@ -30,6 +30,9 @@ SevenLabs
 
 ## 🧐 Processo de Criação
 Utilizei o meu audio do projeto anterior e coloquei no sevenlabs ajustando o avatar de minha preferencia
+## Referência do Projeto
+
+[![Referência do Projeto](https://img.shields.io/badge/Refer%C3%AAncia-DIO%20Projects-green)](https://github.com/alielsonfp/DIO-Projects/tree/main/prompts-for-podcast-generate-by-ia)
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
