@@ -32,7 +32,8 @@ SevenLabs
 Utilizei o meu audio do projeto de podcast e coloquei no Sevenlabs ajustando o avatar de minha preferencia
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Resultados na pasta output
+```markdown
 
 ### Exemplos e Insigths
 
