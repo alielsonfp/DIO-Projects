@@ -29,10 +29,7 @@ Utilizando IA para gerar um avatar virtual para o meu podcast
 SevenLabs
 
 ## 🧐 Processo de Criação
-Utilizei o meu audio do projeto anterior e coloquei no sevenlabs ajustando o avatar de minha preferencia
-## Referência do Projeto
-
-[![Referência do Projeto](https://img.shields.io/badge/Refer%C3%AAncia-DIO%20Projects-green)](https://github.com/alielsonfp/DIO-Projects/tree/main/prompts-for-podcast-generate-by-ia)
+Utilizei o meu audio do projeto de podcast e coloquei no Sevenlabs ajustando o avatar de minha preferencia
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
