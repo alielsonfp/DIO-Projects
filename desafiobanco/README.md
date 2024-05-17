@@ -30,3 +30,6 @@ Para executar cada versão do sistema, basta executar o arquivo Python correspon
 ## Diagrama UML (POO)
 
 A seguir está o diagrama UML que representa a estrutura das classes do projeto na versão orientada a objetos (POO):
+
+![Modelo UML](https://github.com/alielsonfp/DIO-Projects/blob/main/desafiobanco/assets/Modelo%20UML.png)
+
